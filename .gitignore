@@ -1,4 +1,4 @@
-*.рус
+﻿*.рус
 *~
 __pycache__
 db.sqlite3
